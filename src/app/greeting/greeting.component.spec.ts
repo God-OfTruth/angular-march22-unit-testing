@@ -26,4 +26,10 @@ describe('GreetingComponent', () => {
   it('should have a title hello', () => {
     expect(component.title).toBe('Hello');
   });
+  it('should increment', ()=> {
+    it('increment', () => {
+      const res = 
+    })
+  })
 });
+
